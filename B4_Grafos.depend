@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1559651027 source:d:\mis documentos\ciclo 2018\segundo cuatri\fundamentos de programacion ii\unidad4\b4_grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1559647831 d:\mis documentos\ciclo 2018\segundo cuatri\fundamentos de programacion ii\unidad4\b4_grafos\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559650745 source:d:\mis documentos\ciclo 2018\segundo cuatri\fundamentos de programacion ii\unidad4\b4_grafos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"estructuras.h"
+
